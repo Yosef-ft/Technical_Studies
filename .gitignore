@@ -2,4 +2,3 @@
 indicators 
 
 # HDF5 files containing Open, high, low, close, volume data
-*.h5
